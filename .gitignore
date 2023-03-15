@@ -19,6 +19,10 @@ project.xcworkspace/
 *.mode2v3
 *.perspective
 *.perspectivev3
+
+# Cocoapods
+Pods/
+Podfile.lock
  
 build/*
 */build/*
