@@ -14,7 +14,7 @@ class ConfigurationTextCell: UITableViewCell {
     var textField: UITextField = UITextField()
     
     init() {
-        super.init(style: UITableViewCellStyle.Default, reuseIdentifier: nil)
+        super.init(style: .default, reuseIdentifier: nil)
         self.contentView.addSubview(textField)
     }
     
